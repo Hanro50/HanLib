@@ -1,10 +1,10 @@
 package testing;
 
-import org.han.files.ConfigObj;
-import org.han.files.FIleUtil;
 
-public class tes extends ConfigObj{
+import za.net.hanro50.files.ConfigObj;
+import za.net.hanro50.files.FIleUtil;
 
+public class tes extends ConfigObj {
 	/**
 	 * 
 	 */

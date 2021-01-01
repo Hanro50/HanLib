@@ -2,7 +2,7 @@
 	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
-	<groupId>org.han.util</groupId>
+	<groupId>za.net.hanro50.util</groupId>
 	<artifactId>han_libs</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<properties>
@@ -24,16 +24,16 @@
 			<version>1.18</version>
 		</dependency>
 		<dependency>
-    <groupId>org.apache.commons</groupId>
-    <artifactId>commons-configuration2</artifactId>
-    <version>2.7</version>
-</dependency>
+			<groupId>org.apache.commons</groupId>
+			<artifactId>commons-configuration2</artifactId>
+			<version>2.7</version>
+		</dependency>
 		<dependency>
-	<groupId>org.jetbrains</groupId>
-	<artifactId>annotations</artifactId>
-	<version>15.0</version>
-</dependency>
-		
+			<groupId>org.jetbrains</groupId>
+			<artifactId>annotations</artifactId>
+			<version>15.0</version>
+		</dependency>
+
 	</dependencies>
-	
+
 </project>
